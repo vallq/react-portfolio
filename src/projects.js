@@ -2,7 +2,7 @@ const projects = [
   {
     name: "hiit generator",
     description:
-      "I created this as part of the JumpStart course by ThoughtWorks, making use of my then-React and express knowledge to craft this random exercise generator",
+      "I created this as part of the JumpStart course by ThoughtWorks, making use of my then-React and express knowledge to craft this exercise generator",
     link: "https://github.com/vallq/hiit-generator"
   },
   {

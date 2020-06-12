@@ -6,13 +6,11 @@ const Projects = () => {
   const allProjects = projects.map((proj) => {
     return (
       <div className="card">
-        <h3>{proj.name}</h3>
-        <p>{proj.description}</p>
-        <h6>
-          <a href={proj.link} rel="noopener noreferrer" target="_blank">
-            github link
-          </a>
-        </h6>
+        <h3 id="p-name">{proj.name}</h3>
+        <p id="p-description">{proj.description}</p>
+        <a id="p-link" href={proj.link} rel="noopener noreferrer" target="_blank">
+          github link
+        </a>
       </div>
     );
   });
