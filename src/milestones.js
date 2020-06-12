@@ -10,11 +10,11 @@ const milestones = [
     date: "May - Dec 2019",
     name: "Digital Projects Intern @ Danone Nutricia",
     description:
-      "embarked on a learning journey with the Digital team who taught me so much about the nutrition and healthcare research scene, project management and stakeholder management. A, JH, J, KS and PW showered me with a lot of projects and meaningful conversations beyond the internship 💙not to mention the other Danone interns who made the journey really fun as well!",
+      "embarked on a learning journey with the Digital team who taught me so much about the nutrition and healthcare research scene, project management and stakeholder management. A, JH, J, KS and PW showered me with a lot of projects and meaningful conversations beyond the internship💙not to mention the other Danone interns who made the journey really fun as well!",
   },
   {
     date: "Dec 2019",
-    name: "I graduated!",
+    name: "I graduated! from NUS with a business degree",
     description:
       "university is a unique milestone and I'm blessed to have been through it. despite the tears and struggles, I made dear friends and had opportunities to do things like organise IFG and be a RA with the n-house group. there are paths that I would have taken differently, but this is a hefty and fruitful chapter that is ready to be closed",
   },
